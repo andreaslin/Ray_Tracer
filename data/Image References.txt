@@ -1,0 +1,11 @@
+flatearth: http://www.animateonline.org/stillsfull/flatearth03.jpg
+
+flatearth-coloured: http://www.athletesinaction.org/content/images/globalmap/flat-curve-globe.gif
+
+flatearth-2: http://www.codeproject.com/Articles/19712/Mapping-Images-on-Spherical-Surfaces-Using-C
+
+pattern01: http://www.bittbox.com/wp-content/uploads/2007/03/using_patterns_0.png
+
+pattern02: http://noupe.com/img/pattern1.jpg
+
+
